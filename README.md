@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjp1016&theme=outrun_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjp1016&theme=outrun)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjp1016&layout=compact&theme=tokyonight)
 
 <!--
