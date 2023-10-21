@@ -8,6 +8,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjp1016&theme=outrun)
 
 <div>
-
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={ajfen1016}&theme=cold)
-<img src="http://mazandi.herokuapp.com/api?handle={ajfen1016}&theme=warm"/>
