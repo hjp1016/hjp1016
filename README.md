@@ -7,8 +7,4 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjp1016&theme=outrun)
 
-
-!--START_SECTION:badges--
-
-!--END_SECTION:badges--
 <div>
